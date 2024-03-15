@@ -7,4 +7,5 @@
 **Introducción**
 ```
 #Introducción a líneas de comando
+ls es un comando que sirve para listar
 ```
