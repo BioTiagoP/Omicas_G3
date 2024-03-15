@@ -8,4 +8,5 @@
 ```
 #Introducción a líneas de comando
 ls es un comando que sirve para listar
+Enlace para modificar forma del informe final: https://github.com/BioUPS/Bioinf/blob/main/Proyecto_ejemplo/Informe.md
 ```
