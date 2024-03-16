@@ -10,5 +10,8 @@
 ls es un comando que sirve para listar
 Enlace para modificar forma del informe final: https://github.com/BioUPS/Bioinf/blob/main/Proyecto_ejemplo/Informe.md
 Enlace para emoticonos: https://github.com/BioUPS/Bioinf/blob/main/Proyecto_ejemplo/Informe.md
+
+https://github.com/BioUPS/omicas64/blob/main/Blast_bash.md
+
 xx
 ```
